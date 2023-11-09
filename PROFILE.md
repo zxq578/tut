@@ -1,1 +1,4 @@
-Welcome to my GitHub profile!
+Welcome to my GitHub profile  
+**bold text**  
+***bold and italic***  
+~~strikethrough~~
